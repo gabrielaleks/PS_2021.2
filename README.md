@@ -1,4 +1,6 @@
 # Minerva Rockets - PS 2021.2 - Capacitação de desenvolvimento de software
+_Por Gabriel Aleksandravicius | Gerente da Aviônica, Minerva Rockets_
+
 Esse repositório contém todos os arquivos usados durante a capacitação de desenvolvimento de software feita para os treinees de 2021.2 da Minerva Rockets.
 
 Os arquivos estão separados em 3 diretórios. Neles são apresentados os seguintes conceitos:
